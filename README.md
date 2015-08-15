@@ -11,4 +11,4 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
  After researching about Stroop affect in order to be clear about the project for analysis of the effects in subjects who took the test described above and after making some statistical analysis based on a T-Test paired samples, the conclusion is that the results are significantly different. 
  
- # Feel free to collaborate and contribute. 
+c Feel free to collaborate and contribute. 
